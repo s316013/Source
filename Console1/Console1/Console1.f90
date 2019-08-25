@@ -17,7 +17,7 @@
      1 rpl, ddsddt, drplde, drpldt,
      2 stran,dstran,time,dtime,temp,dtemp,predef,dpred,cmname,
      3 ndi,nshr,ntens,nstatv,props,nprops,coords,drot,pnewdt,
-     4 celent,dfgrd0,dfgrd1,noel,npt,kspt,kstep,kinc)   
+     4 celent,dfgrd0,dfgrd1,noel,npt,kspt,kstep)   
        
        
    open(unit=125, file='C:\Temp\New Framework\ GAMMA(I).txt')
